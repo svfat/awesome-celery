@@ -18,8 +18,8 @@ General Celery related items.
 
 ## Administration and Monitoring
 
-- [Flower](https://github.com/mher/flower) - web-based tool for managing and administering Celery clusters
-- [Leek](https://github.com/kodless/leek) - monitoring tool that can monitor multiple brokers with a single container, unlike other tools
+- [Flower](https://github.com/mher/flower) - Web-based tool for managing and administering Celery clusters
+- [Leek](https://github.com/kodless/leek) - Monitoring tool that can monitor multiple brokers with a single container, unlike other tools
 
 
 ## Contribute
