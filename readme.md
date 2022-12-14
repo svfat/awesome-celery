@@ -7,7 +7,7 @@
 
 - [General](#general)
 - [Administration and Monitoring](#administration-and-monitoring)
-
+- [Analogues](#analogues)
 
 ## General
 
@@ -21,6 +21,10 @@ General Celery related items.
 - [Flower](https://github.com/mher/flower) - Web-based tool for managing and administering Celery clusters
 - [Leek](https://github.com/kodless/leek) - Monitoring tool that can monitor multiple brokers with a single container, unlike other tools
 - [django-celery-beat](https://github.com/celery/django-celery-beat) - Running periodic tasks from Django Admin
+
+## Analogues
+
+- [WakaQ](https://github.com/wakatime/wakaq) - Minimalistic alternative to Celery
 
 ## Contribute
 
