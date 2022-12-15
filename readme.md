@@ -24,6 +24,7 @@ General Celery related items.
 
 ## Analogues
 
+- [RQ](https://github.com/rq/rq) - Python library for processing jobs with workers
 - [WakaQ](https://github.com/wakatime/wakaq) - Minimalistic alternative to Celery
 
 ## Contribute
