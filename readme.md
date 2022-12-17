@@ -22,7 +22,7 @@ General Celery related items.
 - [Leek](https://github.com/kodless/leek) - Monitoring tool that can monitor multiple brokers with a single container, unlike other tools
 - [django-celery-beat](https://github.com/celery/django-celery-beat) - Running periodic tasks from Django Admin
 - [celery-progress](https://github.com/czue/celery-progress) - Download progress bar for Django/Celery
-- [django-celery-results](https://github.com/celery/django-celery-results) - Storing task results using the Django ORM
+- [django-celery-results](https://github.com/celery/django-celery-results) - Storing task results using the Django ORM.
 
 ## Analogues
 
