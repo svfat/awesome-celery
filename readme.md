@@ -13,21 +13,21 @@
 
 General Celery related items.
 
-- [Celery documentation](https://docs.celeryq.dev/en/stable/) - Documentation on Celery Framework
-- [Celery github](https://github.com/celery/celery) - Celery source code
+- [Celery documentation](https://docs.celeryq.dev/en/stable/) - Documentation on Celery Framework.
+- [Celery GitHub](https://github.com/celery/celery) - Celery source code.
 
 ## Administration and Monitoring
 
-- [Flower](https://github.com/mher/flower) - Web-based tool for managing and administering Celery clusters
-- [Leek](https://github.com/kodless/leek) - Monitoring tool that can monitor multiple brokers with a single container, unlike other tools
-- [django-celery-beat](https://github.com/celery/django-celery-beat) - Running periodic tasks from Django Admin
-- [celery-progress](https://github.com/czue/celery-progress) - Download progress bar for Django/Celery
+- [Flower](https://github.com/mher/flower) - Web-based tool for managing and administering Celery clusters.
+- [Leek](https://github.com/kodless/leek) - Monitoring tool that can monitor multiple brokers with a single container, unlike other tools.
+- [django-celery-beat](https://github.com/celery/django-celery-beat) - Running periodic tasks from Django Admin.
+- [celery-progress](https://github.com/czue/celery-progress) - Download progress bar for Django/Celery.
 - [django-celery-results](https://github.com/celery/django-celery-results) - Storing task results using the Django ORM.
 
 ## Analogues
 
 - [RQ](https://github.com/rq/rq) - Simple, lightweight, Python library for creating background jobs, and processing them.
-- [WakaQ](https://github.com/wakatime/wakaq) - Minimalistic alternative to Celery
+- [WakaQ](https://github.com/wakatime/wakaq) - Minimalistic alternative to Celery.
 
 ## Contribute
 
