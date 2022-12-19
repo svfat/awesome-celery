@@ -25,6 +25,7 @@ General Celery related items.
 - [django-celery-beat](https://github.com/celery/django-celery-beat) - Running periodic tasks from Django Admin.
 - [celery-progress](https://github.com/czue/celery-progress) - Download progress bar for Django/Celery.
 - [django-celery-results](https://github.com/celery/django-celery-results) - Storing task results using the Django ORM.
+- [django-health-check](https://github.com/revsys/django-health-check) - Health check plugin for Django. Celery health checks are bundled.
 
 ## Analogues
 
