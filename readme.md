@@ -26,6 +26,7 @@ General Celery related items.
 - [celery-progress](https://github.com/czue/celery-progress) - Download progress bar for Django/Celery.
 - [django-celery-results](https://github.com/celery/django-celery-results) - Storing task results using the Django ORM.
 - [django-health-check](https://github.com/revsys/django-health-check) - Health check plugin for Django. Celery health checks are bundled.
+- [clearly](https://github.com/rsalmei/clearly) - Console worker monitoring/inspecting/debugging.
 
 ## Analogues
 
