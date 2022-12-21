@@ -33,4 +33,7 @@ General Celery related items.
 - [RQ](https://github.com/rq/rq) - Simple, lightweight, Python library for creating background jobs, and processing them.
 - [WakaQ](https://github.com/wakatime/wakaq) - Minimalistic alternative to Celery.
 
+## Task flow and organization
+- [Selinon](https://github.com/selinon/selinon) - Advanced flow control with dynamic task scheduling and declarative YAML configs.
+
 Contributions are always welcome! Read the [contribution guidelines](contributing.md) first.
