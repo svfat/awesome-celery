@@ -8,7 +8,7 @@
 - [General](#general)
 - [Administration and Monitoring](#administration-and-monitoring)
 - [Analogues](#analogues)
-
+- [Task flow and organization](#task-flow-and-organization)
 
 ## General
 
@@ -31,7 +31,7 @@ General Celery related items.
 
 - [RQ](https://github.com/rq/rq) - Simple, lightweight, Python library for creating background jobs, and processing them.
 - [WakaQ](https://github.com/wakatime/wakaq) - Minimalistic alternative to Celery.
-- [aiotasks](https://github.com/cr0hn/aiotasks) - Celery-like task queue but for asyncronous functions
+- [aiotasks](https://github.com/cr0hn/aiotasks) - Celery-like task queue but for asyncronous functions.
 
 ## Task flow and organization
 - [Selinon](https://github.com/selinon/selinon) - Advanced flow control with dynamic task scheduling and declarative YAML configs.
