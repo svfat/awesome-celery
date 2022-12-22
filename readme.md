@@ -21,7 +21,6 @@ General Celery related items.
 
 - [Flower](https://github.com/mher/flower) - Web-based tool for managing and administering Celery clusters.
 - [Leek](https://github.com/kodless/leek) - Monitoring tool that can monitor multiple brokers with a single container, unlike other tools.
-- [celery-director](https://github.com/ovh/celery-director) - YAML workflows for Celery tasks and WebUI to run them.
 - [django-celery-beat](https://github.com/celery/django-celery-beat) - Running periodic tasks from Django Admin.
 - [celery-progress](https://github.com/czue/celery-progress) - Download progress bar for Django/Celery.
 - [django-celery-results](https://github.com/celery/django-celery-results) - Storing task results using the Django ORM.
@@ -35,5 +34,6 @@ General Celery related items.
 
 ## Task flow and organization
 - [Selinon](https://github.com/selinon/selinon) - Advanced flow control with dynamic task scheduling and declarative YAML configs.
+- [celery-director](https://github.com/ovh/celery-director) - YAML workflows for Celery tasks and WebUI to run them.
 
 Contributions are always welcome! Read the [contribution guidelines](contributing.md) first.
