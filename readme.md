@@ -37,5 +37,6 @@ General Celery related items.
 - [Selinon](https://github.com/selinon/selinon) - Advanced flow control with dynamic task scheduling and declarative YAML configs.
 - [celery-director](https://github.com/ovh/celery-director) - YAML workflows for Celery tasks and WebUI to run them.
 - [celery-once](https://github.com/cameronmaske/celery-once) - Prevent multiple execution of celery tasks.
+- [Jobtastic](https://github.com/PolicyStat/jobtastic) - Implement progress, status, caching, error handling with simple wrappers.
 
 Contributions are always welcome! Read the [contribution guidelines](contributing.md) first.
