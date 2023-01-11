@@ -9,6 +9,7 @@
 - [Administration and Monitoring](#administration-and-monitoring)
 - [Analogues](#analogues)
 - [Task flow and organization](#task-flow-and-organization)
+- [Implementation in different languages](#implementation-in-different-languages)
 
 ## General
 
@@ -40,6 +41,7 @@ General Celery related items.
 - [celery-once](https://github.com/cameronmaske/celery-once) - Prevent multiple execution of celery tasks.
 - [Jobtastic](https://github.com/PolicyStat/jobtastic) - Implement progress, status, caching, error handling with simple wrappers.
 
-
+## Implementation in different languages
+- [Rusty Celery](https://github.com/rusty-celery/rusty-celery) - Rust implementation.
 
 Contributions are always welcome! Read the [contribution guidelines](contributing.md) first.
