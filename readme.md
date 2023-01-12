@@ -43,5 +43,6 @@ General Celery related items.
 
 ## Implementation in different languages
 - [Rusty Celery](https://github.com/rusty-celery/rusty-celery) - Rust implementation.
+- [gocelery](https://github.com/gocelery/gocelery) - Go Client/Server for Celery Distributed Task Queue.
 
 Contributions are always welcome! Read the [contribution guidelines](contributing.md) first.
