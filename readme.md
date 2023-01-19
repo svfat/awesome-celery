@@ -41,6 +41,7 @@ General Celery related items.
 - [celery-director](https://github.com/ovh/celery-director) - YAML workflows for Celery tasks and WebUI to run them.
 - [celery-once](https://github.com/cameronmaske/celery-once) - Prevent multiple execution of celery tasks.
 - [Jobtastic](https://github.com/PolicyStat/jobtastic) - Implement progress, status, caching, error handling with simple wrappers.
+- [RedBeat](https://github.com/sibson/redbeat) - Celery Beat Scheduler that stores the scheduled tasks and runtime metadata in Redis.
 
 ## Implementation in different languages
 - [Rusty Celery](https://github.com/rusty-celery/rusty-celery) - Rust implementation.
