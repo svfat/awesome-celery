@@ -29,6 +29,8 @@ General Celery related items.
 - [django-celery-results](https://github.com/celery/django-celery-results) - Storing task results using the Django ORM.
 - [django-health-check](https://github.com/revsys/django-health-check) - Health check plugin for Django. Celery health checks are bundled.
 - [clearly](https://github.com/rsalmei/clearly) - Console worker monitoring/inspecting/debugging.
+- [celery-exporter](https://github.com/danihodovic/celery-exporter) - A Prometheus exporter for Celery.
+- [celery-mixin](https://github.com/danihodovic/celery-exporter/tree/master/celery-mixin) - Monitoring mixin for Celery. A set of Grafana dashboards and Prometheus rules for Celery.
 
 ## Analogues
 
