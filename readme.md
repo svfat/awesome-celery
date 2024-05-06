@@ -32,7 +32,6 @@ General Celery related items.
 - [celery-exporter](https://github.com/danihodovic/celery-exporter) - A Prometheus exporter for Celery.
 - [celery-mixin](https://github.com/danihodovic/celery-exporter/tree/master/celery-mixin) - Monitoring mixin for Celery. A set of Grafana dashboards and Prometheus rules for Celery.
 
-
 ## Analogues
 
 - [RQ](https://github.com/rq/rq) - Simple, lightweight, Python library for creating background jobs, and processing them.
