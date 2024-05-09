@@ -17,6 +17,7 @@ General Celery related items.
 
 - [Celery documentation](https://docs.celeryq.dev/en/stable/) - Documentation on Celery Framework.
 - [Celery GitHub](https://github.com/celery/celery) - Celery source code.
+- [Celery Pytest Plugin](https://pytest-celery.readthedocs.io) - Official pytest plugin for Celery.
 - [celery-tasks-checklist](https://github.com/vintasoftware/celery-tasks-checklist) - Useful checklist for building great Celery tasks.
 
 ## Administration and Monitoring
