@@ -24,6 +24,7 @@ General Celery related items.
 
 - [Celery Insights](https://github.com/danyi1212/celery-insights) - Realtime monitoring tool for Celery clusters with a modern web UI.
 - [Flower](https://github.com/mher/flower) - Web-based tool for managing and administering Celery clusters.
+- [Kanchi](https://github.com/getkanchi/kanchi) - Real-time Celery task monitoring and management system with a modern web UI and WebSocket-powered live updates.
 - [Leek](https://github.com/kodless/leek) - Monitoring tool that can monitor multiple brokers with a single container, unlike other tools.
 - [django-celery-beat](https://github.com/celery/django-celery-beat) - Running periodic tasks from Django Admin.
 - [celery-progress](https://github.com/czue/celery-progress) - Download progress bar for Django/Celery.
