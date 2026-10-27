@@ -33,6 +33,7 @@ General Celery related items.
 - [clearly](https://github.com/rsalmei/clearly) - Console worker monitoring/inspecting/debugging.
 - [celery-exporter](https://github.com/danihodovic/celery-exporter) - A Prometheus exporter for Celery.
 - [celery-mixin](https://github.com/danihodovic/celery-exporter/tree/master/celery-mixin) - Monitoring mixin for Celery. A set of Grafana dashboards and Prometheus rules for Celery.
+- [celery-manager](https://github.com/Pythondeveloper6/celery-manager) - Web dashboard and REST API for Django, Flask and FastAPI projects, with pause/cancel of a single periodic-task run.
 
 ## Analogues
 
